@@ -1,2 +1,3 @@
 # KanbanBoard
-Kanban board waswritten on the react
+Канбан доска была написана на React. надеюсь, что все будет работать, потому что мне удалось настроить route и с моего пк все работает. оставлю ссылочку на видео с работой.
+https://disk.yandex.ru/d/RP_d-PD8f1sfsg
